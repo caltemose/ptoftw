@@ -1,0 +1,11 @@
+baseURL = "https://caltemose.github.io/ptoftw/"
+languageCode = "en-us"
+
+title = "PTO FTW"
+theme = "tale"
+
+[Author]
+    name = "ptoftw"
+
+[Params]
+    author = "ptoftw"

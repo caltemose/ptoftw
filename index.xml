@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PTO FTW</title>
+    <link>https://caltemose.github.io/ptoftw/</link>
+    <description>Recent content on PTO FTW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 14:08:19 -0500</lastBuildDate>
+    
+	<atom:link href="https://caltemose.github.io/ptoftw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Work to Live or Live to Work?</title>
+      <link>https://caltemose.github.io/ptoftw/thoughts/work-to-live/</link>
+      <pubDate>Sun, 01 Mar 2020 14:08:19 -0500</pubDate>
+      
+      <guid>https://caltemose.github.io/ptoftw/thoughts/work-to-live/</guid>
+      <description>&lt;p&gt;Some people live for their work. Others work so they can try to live the life they want. This post is about understanding the difference between the two and knowing which phrase applies to how you live your life.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Motivation For This Site</title>
+      <link>https://caltemose.github.io/ptoftw/about/motivation/</link>
+      <pubDate>Sun, 01 Mar 2020 14:00:45 -0500</pubDate>
+      
+      <guid>https://caltemose.github.io/ptoftw/about/motivation/</guid>
+      <description>&lt;p&gt;This page should describe my motivation for creating and maintaining this site.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

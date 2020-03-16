@@ -15,5 +15,3 @@ Help people:
 + use their time away from work wisely
 + cure their mental health with time off from work
 + stop wasting PTO
-
-

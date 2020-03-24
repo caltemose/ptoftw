@@ -8,3 +8,11 @@ theme = "tale"
 
 [Params]
     author = "ptoftw"
+
+[menu]
+    [[menu.main]]
+        identifier="motivation"
+        name="Motivation"
+        title="Motivation"
+        url="/about/motivation"
+        weight=0
